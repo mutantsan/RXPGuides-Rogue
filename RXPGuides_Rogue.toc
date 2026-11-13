@@ -1,0 +1,14 @@
+## Interface: 16001
+## Title: RestedXP - Rogue Guides
+## Notes: Custom RestedXP guides for Rogues on WoW Forever: Lockpicking, Poisons, Ravenholdt, SFK/SM/ZF class quests
+## Author: Custom
+## Version: 2.1.0
+## Dependencies: RXPGuides
+## AllowLoadGameType: camelot
+
+Lockpicking.lua
+Poisons.lua
+HornOfXelthos.lua
+EyeOfBhossca.lua
+TalismanOfKazdor.lua
+Ravenholdt.lua
