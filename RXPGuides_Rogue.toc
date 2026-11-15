@@ -1,13 +1,14 @@
 ## Interface: 16001
 ## Title: RestedXP - Rogue Guides
-## Notes: Custom RestedXP guides for Rogues on WoW Forever: Lockpicking, Poisons, Ravenholdt, SFK/SM/ZF class quests, Cozy Sleeping Bag
+## Notes: Custom RestedXP guides for Rogues on WoW Forever: Lockpicking, Poisons, Ravenholdt, SFK/SM/ZF class quests, Cozy Sleeping Bag, Fishing
 ## Author: Custom
-## Version: 2.2.0
+## Version: 2.3.0
 ## Dependencies: RXPGuides
 ## AllowLoadGameType: camelot
 
 Lockpicking.lua
 SleepingBag.lua
+Fishing.lua
 Poisons.lua
 HornOfXelthos.lua
 EyeOfBhossca.lua
